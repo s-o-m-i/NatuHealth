@@ -25,3 +25,25 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.my-bg-color{
+    background-color: #110929;
+   
+}
+.card-bg-color{
+  background-color: #160A3B;
+}
+.btn-bg-gradient{
+  background-image: linear-gradient(to right, #8d1cfe, #0038ed);
+}
+.transition{
+  transition: all 1s ease;
+}
+.roshni-color{
+  background-color: #D622DA96;
+
+  filter: blur(200px);
+}
+.progress-bg{
+  background-color:  #300D62;
+}
